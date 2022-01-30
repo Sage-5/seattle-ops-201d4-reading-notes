@@ -1,0 +1,13 @@
+The SMB protocol is a client-server protocol for sharing files, printers, serial ports and data on a network. Runs on NetBIOS  uses TCP port 139.
+In 2000 Microsoft changed SMB 1.0 to port 445 it was slow and a blockk level. SMB 2.0 improved protocols efficiency by reducing commands from hundreds to 19.
+SMB 3.0  improved even further and SMB 2.0 and more security was added and end to end encryption. SAMBA is an implemenatation of it created in 1992 and there are 
+many others.
+
+Some of the ways to stop security risks on these ports:
+Avoid exposing SMB ports.
+Patch everything.
+Back up everything so there is no single point of failure.
+Use a firewall.
+Use a VPN. 
+Implement and VLAN.
+Use MAC Address filtering.
