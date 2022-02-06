@@ -1,0 +1,14 @@
+Powershell is a command line interface by Microsoft which enables admin and super-users to manage computers from the command line. Its also a scripting language.
+Commands are performed using cmdlets. It is a language for doing things not so much creating things as in other languages. 
+
+Powershell relies on the pipeline, passing objects to other cmdlets for input pushing around structured data. 
+
+Benefits of powershell:
+Faster
+Reduces mistakes
+Enhances your knowledge everywhere
+One of the most connected communities
+Continues to grow and be adapted.
+
+     Some of the ways it is exploited is by hackers who use it to execute actions in memory. A way to avoid this would be wrapping scripts requiring them 
+     to be digitally signed. Hackers are learning to use it more and social engineering attacks are still effective as time passes.
