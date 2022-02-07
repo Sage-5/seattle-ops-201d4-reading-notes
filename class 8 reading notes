@@ -1,0 +1,4 @@
+The windows registry is a collection of databases that apply to all users which has its own user specific settings. It loads the files form memory for 
+your configuration settings. It contains folders like 'keys, and 'values' and inside those are data. Its made up of multiple groups. Each group is called
+a hive. It lets you customize windows individual settings for super users 'registry hacks'. Its nice if you know what you are doing but a word of caution 
+you can mess up your operating system if not careful. Of the registry hacks in the lab were pretty fun just customizing little things.
