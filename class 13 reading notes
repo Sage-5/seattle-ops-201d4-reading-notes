@@ -1,0 +1,4 @@
+Virtualization goes back to the 1960's and was made popular by VMWare in 1999 now it has morphed into a model that includes desktops, servers, networks, storage,
+applications, and data devices. An Amazon IaaS example would EC2 (Amazon Compute Cloud) which provides vrtual servers. Virtualization allows them to run different 
+types of machines on their hardware and it all can be controlled by a web interface.
+
