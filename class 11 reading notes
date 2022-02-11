@@ -1,4 +1,6 @@
 SSDs Solid State Drives can fail over time as they subject to aging, physical harm, power surges, data corruption, flawed memory, or just failiure. 
 There are a few ways to try to save them one includes file system repair. Sometimes there are built 9in mechanisms in the hardware. At the same time these can
 make data harder to recover. 
-    A few way to address this issue is file system repair, re-installing your OS after partitioning, 
+    A few way to address this issue is file system repair, re-installing your OS after partitioning, and formatting the drive and reinstalling the OS.
+Some other ways include power cycling the ssd, idling in the boot menu, updating ssd firmware, and updating drivers. Having software to monitor the SSD
+is a good, as well as getting a s.m.a.r.t. SSD which has built in meausures of monitoring it, and backing up regularly all help to save data.
